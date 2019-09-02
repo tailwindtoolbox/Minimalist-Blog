@@ -1,6 +1,3 @@
-# Minimalist-Blog
-Tailwind CSS Starter Template - Minimalist Blog
-
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Minimalist-Blog](https://www.tailwindtoolbox.com/templates/minimalist-blog)
 
 [Minimalist Blog Template](https://www.tailwindtoolbox.com/templates/Minimal-Blog) is a minimalistic monochrome blog layout created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
